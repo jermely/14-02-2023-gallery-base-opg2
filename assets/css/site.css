@@ -13,6 +13,10 @@ h1 {
   margin: 0px;
 }
 
+main h1 {
+  text-align: center;
+}
+
 h2 {
   font-family: "Oswald", sans-serif;
   font-size: 2em;
@@ -58,6 +62,7 @@ header p {
   border-radius: 10px;
   /* min-height: 400px; */
   width: 375px;
+  cursor: pointer;
 }
 
 .galleryCard img {
@@ -81,6 +86,7 @@ header p {
   border-radius: 10px;
   /* min-height: 400px; */
   width: 90%;
+  cursor: pointer;
 }
 
 .detailView img {
